@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="terminal">
+    <file>dyn</file>
+    <file>dev.png</file>
+  </qresource>
+</RCC>
